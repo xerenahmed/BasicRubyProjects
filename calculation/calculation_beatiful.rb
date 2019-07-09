@@ -1,4 +1,4 @@
-#encoding UTF-8
+#encoding: UTF-8
 # Coding by Eren A. Akyol <https://github.com/eren5960>
 # 09/07/2019 13:43
 require 'ruby_figlet'
