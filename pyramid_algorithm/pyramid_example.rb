@@ -1,6 +1,6 @@
 # Coded by Eren A. Akyol
 # Pyramid Algorithm (07.07.2019 12:43)
-require Dir.pwd + '/StringPyramid.rb'
+require_relative 'StringPyramid.rb'
 
 print "Adınızı giriniz:"
 
